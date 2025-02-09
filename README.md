@@ -9,7 +9,7 @@ This script allows spawning and configuration of custom peds (characters) on you
 
 ### Requirements
 - **FiveM Server**
-- **ox_lib** library ([ox_lib GitHub](https://github.com/overextended/ox_lib))
+- ([**ox_lib**](https://github.com/overextended/ox_lib))
 
 ### Features
 - Full ped configuration in `config.lua`
