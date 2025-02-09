@@ -17,5 +17,5 @@ This script allows spawning and configuration of custom peds (characters) on you
 1. Download or clone this repository into your server's `resources` folder.
 2. Ensure you have `ox_lib` installed.
 3. Add the following line to your `server.cfg`:
-   ```cfg ensure
-   zdk-custom_clothes_for_ped
+   ```cfg
+   ensure zdk-custom_clothes_for_ped
