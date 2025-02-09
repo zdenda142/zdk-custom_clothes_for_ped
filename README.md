@@ -9,7 +9,7 @@ This script allows spawning and configuration of custom peds (characters) on you
 
 ### Requirements
 - **FiveM Server**
-- ([**ox_lib**](https://github.com/overextended/ox_lib))
+- [**ox_lib**](https://github.com/overextended/ox_lib)
 
 ### Features
 - Full ped configuration in `config.lua`
@@ -22,4 +22,4 @@ This script allows spawning and configuration of custom peds (characters) on you
 2. Ensure you have `ox_lib` installed.
 3. Add the following line to your `server.cfg`:
    ```cfg
-   ensure your-script-name
+   ensure zdk-custom_clothes_for_ped
